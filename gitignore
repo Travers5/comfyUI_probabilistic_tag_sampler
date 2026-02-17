@@ -1,0 +1,39 @@
+# Ignore debug/log output
+*.log
+*.log.*
+logs/
+log/
+*.txt
+
+# Ignore generated / editable data files
+*.csv
+*.json
+
+# Ignore Excel and common spreadsheet formats
+*.xls
+*.xlsx
+*.xlsm
+*.xlsb
+*.xlt
+*.xltx
+*.xltm
+*.xla
+*.xlam
+*.xlw
+
+# Other common spreadsheet variants
+*.ods
+*.ots
+*.numbers
+
+# Temporary / backup files often created by office apps
+~$*.xls*
+~$*.xlsx*
+*.tmp
+*.bak
+
+# OS/editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
