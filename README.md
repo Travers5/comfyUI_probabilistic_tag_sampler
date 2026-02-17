@@ -283,5 +283,4 @@ Recommended workflow:
 ---
 
 ## Licence
-
-Add a licence file appropriate to how you want others to use this code.
+MIT
