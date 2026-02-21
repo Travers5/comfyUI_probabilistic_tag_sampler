@@ -1,0 +1,47 @@
+# Python cache/build artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Logs
+*.log
+*.log.*
+logs/
+log/
+
+# Generated model/debug data in this node
+tag_data.json
+tag_data.csv
+prob_tag_sampler_debug.log
+
+# Spreadsheet/editor temp files
+*.xls
+*.xlsx
+*.xlsm
+*.xlsb
+*.xlt
+*.xltx
+*.xltm
+*.xla
+*.xlam
+*.xlw
+*.ods
+*.ots
+*.numbers
+~$*.xls*
+~$*.xlsx*
+*.tmp
+*.bak
+
+# OS/editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
